@@ -36,3 +36,33 @@ margin: 200px;
 
 }
 
+
+table, th, td{
+
+border: 1px solid;
+color: rgb(0, 0, 0);
+padding: 5px;
+
+
+}
+th{
+    background-color: aqua;
+    height: 30px;
+}
+
+td{
+
+    text-align: center;
+}
+
+a{
+    color: rgb(223, 211, 211);
+}
+
+a:link, a:visited{
+background-color: green;
+text-align: center;
+border-radius: 5px;
+
+
+}
